@@ -11,5 +11,5 @@ It is designed to recommend similar movies based on user input by comparing movi
 - ✅ Content-Based Filtering
 - ✅ Recommends top 10 similar movies
 - ✅ Utilizes cosine similarity on movie features
-- ✅ Built using Python and Jupyter Notebook
+- ✅ Built in VS Code IDE using python language and Django Framework
 - ✅ Clean and beginner-friendly implementation
